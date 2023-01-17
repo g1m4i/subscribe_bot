@@ -1,0 +1,7 @@
+**/__pycache__
+.env
+.env.dev
+.vscode
+typings/fluentogram_stubs.py
+tests/*
+src/tgbot
